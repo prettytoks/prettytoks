@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Fullstack Projects 
-- 📫 How to reach me https://prettytoks.tk/
+- 📫 How to reach me prettytoks@gmail.com
 
 <!---
 prettytoks/prettytoks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
